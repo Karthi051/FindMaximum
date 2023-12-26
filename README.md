@@ -20,6 +20,7 @@ def max_marks(marks):
     c=sorted(marks)
     m=c[-1]
     return m
+```
 
 ii)	# To find the maximum marks using the list method max().
 ''' 
@@ -31,6 +32,7 @@ def max_marks(marks):
     # write your code here
     c=max(sorted(marks))
     return c
+```
 
 iii) # To find the maximum marks without using builtin functions.
 ''' 
