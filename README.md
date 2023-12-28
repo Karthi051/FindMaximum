@@ -11,6 +11,7 @@ To write a program to find the maximum of a list of numbers.
 ## Program:
 
 i)	# To find the maximum of marks using the list method sort.
+```
 ''' 
 Program to mark the maximum of marks using the list method sort
 Developed by: KARTHI KEYAN K
@@ -23,6 +24,7 @@ def max_marks(marks):
 ```
 
 ii)	# To find the maximum marks using the list method max().
+```
 ''' 
 Program to find the maximum marks using the list method max().
 Developed by: KARTHI KEYAN K
@@ -35,6 +37,7 @@ def max_marks(marks):
 ```
 
 iii) # To find the maximum marks without using builtin functions.
+```
 ''' 
 Program to the maximum marks without using builtin functions.
 Developed by: KARTHI KEYAN K
@@ -48,21 +51,17 @@ def max_marks(list1):
         if i>max_marks:
             max_marks = i
     return max_marks
-
-
-
-
 ```
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+![image](https://github.com/Karthi051/FindMaximum/assets/148327224/5f573dc0-472e-4249-b46b-759075ced41e)
 
-![image](https://github.com/Karthi051/FindMaximum/assets/148327224/00a323ce-f0be-4592-b8d1-160293d7d587)
+![image](https://github.com/Karthi051/FindMaximum/assets/148327224/433bb153-3a11-4887-ac6f-c49d9fc293a5)
 
-![image](https://github.com/Karthi051/FindMaximum/assets/148327224/8899b699-9d41-4912-9b92-211bac22aba5)
+![image](https://github.com/Karthi051/FindMaximum/assets/148327224/0cb8b7ca-bb01-43de-9f5c-01228b7fa243)
 
-![image](https://github.com/Karthi051/FindMaximum/assets/148327224/2444d34c-0075-49dc-8e85-84a115ccd747)
 
 
 
