@@ -57,11 +57,11 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-1
+
 ![image](https://github.com/Karthi051/FindMaximum/assets/148327224/00a323ce-f0be-4592-b8d1-160293d7d587)
-2
+
 ![image](https://github.com/Karthi051/FindMaximum/assets/148327224/8899b699-9d41-4912-9b92-211bac22aba5)
-3
+
 ![image](https://github.com/Karthi051/FindMaximum/assets/148327224/2444d34c-0075-49dc-8e85-84a115ccd747)
 
 
